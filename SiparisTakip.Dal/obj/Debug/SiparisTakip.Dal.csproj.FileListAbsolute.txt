@@ -1,0 +1,26 @@
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll.config
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.dll.config
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.xml
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csprojResolveAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.pdb
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll.config
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.pdb
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.dll
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.dll
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.pdb
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.xml
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csprojResolveAssemblyReference.cache
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.dll
+C:\Users\bzmen\Desktop\derstekiörnek\SiparisTakip\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.pdb
